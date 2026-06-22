@@ -1,128 +1,144 @@
-<p align="center">⚡ Houman Mosadegh ⚡</p>
+<div align="center">⚡ Houman Mosadegh
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Python+%7C+FastAPI+%7C+Linux;Building+Ideas+Into+Reality;Coffee+Powered+Developer+☕;Open+Source+Enthusiast+🚀" />
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudo-Houman&label=Profile+Views&color=8A2BE2&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/sudo-Houman?style=flat-square&color=8A2BE2" />
-</p>---
+🚀 Full-Stack Developer • Telegram Bot Developer • Linux Enthusiast
 
-🚀 About
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Things+That+Actually+Work;Python+%7C+Linux+%7C+FastAPI;Coffee+Powered+Developer+☕;From+Idea+To+Production+🚀" /><br><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/></div>---
 
-Full-Stack Developer focused on building modern web applications, backend systems, automation tools, and Telegram bots.
+🌑 About Me
 
-I enjoy transforming ideas into real products using Python, Linux, APIs, and scalable architectures.
+💻 عاشق ساختن سیستم‌های واقعی
 
-☕ Coffee
-🐉 Linux
-💻 Code
-🚀 Build
-🔁 Repeat
+☕ معتاد قهوه
+
+🐧 کاربر لینوکس
+
+🚀 علاقه‌مند به معماری نرم‌افزار و اتوماسیون
+
+🎯 تبدیل ایده‌ها به محصول واقعی
 
 ---
 
 ⚔️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,javascript,html,css,linux,docker,git,github,wordpress,vscode" />
-</p>---
+<div align="center"><img src="https://skillicons.dev/icons?i=python,fastapi,javascript,html,css,linux,docker,git,github,wordpress,vscode"/></div>---
 
-🐉 Linux Dragon Zone
+☕ Coffee → Code → Repeat
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320">
-</p>«Linux isn't just an operating system.
-It's a mindset.»
-
----
-
-☕ Coffee Driven Development
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="140">
-</p>☕ Coffee
-   ↓
+<div align="center"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180"/></div>☕ Coffee
+    ↓
 💡 Idea
-   ↓
+    ↓
 ⌨️ Code
-   ↓
+    ↓
 🚀 Deploy
-   ↓
-☕ More Coffee
+    ↓
+😴 Sleep
+    ↓
+☕ Coffee Again
 
 ---
 
 🏆 Featured Projects
 
-🤖 Employee Management Bot
+🎮 Telegram Web App Game
 
-Telegram-based employee management system with attendance tracking, salary calculation, task management, and reporting tools.
+Flappy Bird inspired mini-game built for Telegram Web Apps.
 
-🌐 Personal Portfolio
+✨ Features:
 
-Responsive portfolio website showcasing projects, skills, and experience with modern UI/UX.
-
-🛒 E-Commerce Platform
-
-WordPress + WooCommerce solution with payment integration, product management, and optimized performance.
+- Telegram Integration
+- Real-Time Gameplay
+- Score System
+- Responsive Design
 
 ---
 
-📊 GitHub Analytics
+🤖 Employee Management System
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudo-Houman&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-Houman&layout=compact&theme=tokyonight&hide_border=true" />
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sudo-Houman&theme=tokyonight&hide_border=true" />
-</p>---
+Advanced Telegram Bot for:
+
+- حضور و غیاب
+- مدیریت تسک‌ها
+- حقوق و دستمزد
+- گزارش‌گیری
+
+---
+
+🌐 Portfolio + Admin Dashboard
+
+Modern Portfolio Website with:
+
+- Dynamic Content
+- Admin Dashboard
+- Statistics Panel
+- Responsive UI
+
+---
+
+🛒 WordPress Websites
+
+Development and customization of:
+
+- Corporate Websites
+- Online Stores
+- Landing Pages
+- WooCommerce Platforms
+
+---
+
+⚡ Automation Projects
+
+Multiple automation systems including:
+
+- Telegram Bots
+- API Integrations
+- Workflow Automation
+- Business Tools
+
+---
+
+📊 GitHub Stats
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=sudo-Houman&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-Houman&layout=compact&theme=tokyonight&hide_border=true"/></div><br><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=sudo-Houman&theme=tokyonight&hide_border=true"/></div>---
+
+🐧 Linux Zone
+
+<div align="center"><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/></div>«Linux isn't just an operating system.
+
+It's a lifestyle. 🐧»
+
+---
 
 🎯 Current Focus
 
-- ⚡ FastAPI & Backend Engineering
-- 🤖 Telegram Bot Development
-- 🐳 Docker & Linux Infrastructure
-- 🔗 API Design & Integrations
-- 🚀 Scalable Software Architecture
+🚀 FastAPI Development
 
----
+🤖 Telegram Ecosystem
 
-💭 Philosophy
+🐳 Docker & Linux Servers
 
-«"Talk is cheap. Show me the code."»
+🔗 API Design
 
-— Linus Torvalds
-
-<br>«"First solve the problem. Then write the code."»
-
-<br>«"Powered by coffee, driven by curiosity."»
+⚡ Automation Systems
 
 ---
 
 🌐 Connect With Me
 
-<p align="center"><a href="mailto:houmanmosadegh.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<div align="center"><a href="mailto:houmanmosadegh.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><a href="https://t.me/Holirex">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a><a href="https://instagram.com/Holirex">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a><a href="https://github.com/sudo-Houman">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a></p><p align="center">📧 houmanmosadegh.dev@gmail.com
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div>---
 
-📱 @Holirex
+<div align="center">☕ Fueled By Coffee
 
-📸 @Holirex
+🐧 Powered By Linux
 
-</p>---
+🚀 Built With Passion
 
-<p align="center">☕ Fueled By Coffee
-
-🐉 Powered By Linux
-
-🚀 Crafted By Houman Mosadegh
-
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" />
-</p>
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/></div>
